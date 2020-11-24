@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Packages/Triangulation2D/Demo/Scenes/Demo.unity
+    guid: 99428221878334a8683529a91c6d2b53
+  - enabled: 1
+    path: Assets/Scenes/arap09.unity
+    guid: 7d9b02a2dfae94ed3a521bef87fb119a
+  m_configObjects: {}
